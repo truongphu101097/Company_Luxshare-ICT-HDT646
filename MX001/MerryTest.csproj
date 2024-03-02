@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{342DA5C3-0F1F-470B-8C22-023B7B990F70}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MX001</RootNamespace>
+    <AssemblyName>HDT646</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="HIDLib">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\HIDLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MerryTestFramework.testitem">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.dll</HintPath>
+    </Reference>
+    <Reference Include="MESDLL">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\MESDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectSound">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="PC_VolumeControl">
+      <HintPath>..\..\HDT606(1)\HDT606\Code\Type_Name DLL\MerryDllFramework\bin\Debug\PC_VolumeControl.dll</HintPath>
+    </Reference>
+    <Reference Include="SwATE_Net">
+      <HintPath>..\..\..\VNMerryTest\JieKou\JieKou\bin\Debug\SwATE_Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="avnera.cs" />
+    <Compile Include="check.cs" />
+    <Compile Include="Computer\AdjustVolume.cs" />
+    <Compile Include="Computer\MessageBox.cs" />
+    <Compile Include="Computer\MouseControl.cs" />
+    <Compile Include="Computer\Play.cs" />
+    <Compile Include="Computer\ReadFile.cs" />
+    <Compile Include="Computer\UIAdaptiveSize.cs" />
+    <Compile Include="Computer\WindowControl.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="Forms\Invoke.cs" />
+    <Compile Include="Forms\MessageBoxs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MessageBoxs.designer.cs" />
+    <Compile Include="Forms\ProgressBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProgressBars.designer.cs" />
+    <Compile Include="FW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FW.Designer.cs">
+      <DependentUpon>FW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetHandles.cs" />
+    <Compile Include="TestItem\Data.cs" />
+    <Compile Include="IMerryDll.cs" />
+    <Compile Include="MerryDll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestItem\BaseConversion.cs" />
+    <Compile Include="TestItem\Command.cs" />
+    <Compile Include="TestItem\GetHandle.cs" />
+    <Compile Include="TestItem\MessageBoxs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestItem\MessageBoxs.designer.cs">
+      <DependentUpon>MessageBoxs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestItem\OldButtonTest.cs" />
+    <Compile Include="TestItem\ProgressBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestItem\ProgressBars.designer.cs">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestItem\TestMethod.cs" />
+    <Compile Include="TestItem\UpdataFirmware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestItem\UpdataFirmware.designer.cs">
+      <DependentUpon>UpdataFirmware.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIAdaptiveSize.cs" />
+    <Compile Include="View_FW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_FW.Designer.cs">
+      <DependentUpon>View_FW.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\MessageBoxs.resx" />
+    <EmbeddedResource Include="Forms\ProgressBars.resx" />
+    <EmbeddedResource Include="FW.resx">
+      <DependentUpon>FW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestItem\MessageBoxs.resx">
+      <DependentUpon>MessageBoxs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestItem\ProgressBars.resx">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestItem\UpdataFirmware.resx">
+      <DependentUpon>UpdataFirmware.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_FW.resx">
+      <DependentUpon>View_FW.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

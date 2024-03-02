@@ -1,0 +1,4 @@
+﻿TXPID=046d
+TXVID=0aba
+RXPID=046d
+RXVID=0abb

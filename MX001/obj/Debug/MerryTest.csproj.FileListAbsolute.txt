@@ -1,0 +1,169 @@
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\HuizhouTest\MX001\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\HuizhouTest\MX001\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\HuizhouTest\MX001\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\HuizhouTest\MX001\MX001\bin\Debug\MX001.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\MX001.pdb
+D:\HuizhouTest\MX001\MX001\bin\Debug\Bass.Net.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\HDT789.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\HIDLib.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\MerryTestFramework.testitem.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\MESDLL.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\Microsoft.DirectX.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\NAudio.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\Newtonsoft.Json.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\PC_VolumeControl.dll
+D:\HuizhouTest\MX001\MX001\bin\Debug\HDT789.pdb
+D:\HuizhouTest\MX001\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+D:\HuizhouTest\MX001\MX001\bin\Debug\MerryTestFramework.testitem.xml
+D:\HuizhouTest\MX001\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+D:\HuizhouTest\MX001\MX001\obj\Debug\MX001.dll
+D:\HuizhouTest\MX001\MX001\obj\Debug\MX001.pdb
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\VNMerryTest\646\646\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\VNMerryTest\646\646\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\VNMerryTest\646\646\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\646\646\MX001\obj\Debug\MX001.dll
+D:\VNMerryTest\646\646\MX001\obj\Debug\MX001.pdb
+D:\VNMerryTest\646\646\MX001\bin\Debug\MX001.dll
+D:\VNMerryTest\646\646\MX001\bin\Debug\MX001.pdb
+D:\VNMerryTest\646\646\MX001\bin\Debug\HDT789.pdb
+D:\VNMerryTest\646\646\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+D:\VNMerryTest\646\646\MX001\bin\Debug\MerryTestFramework.testitem.xml
+D:\VNMerryTest\646\646\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+C:\Users\CH180265\Desktop\646\MX001\bin\Debug\MX001.dll
+C:\Users\CH180265\Desktop\646\MX001\bin\Debug\MX001.pdb
+C:\Users\CH180265\Desktop\646\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH180265\Desktop\646\MX001\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MX001.dll
+C:\Users\CH180265\Desktop\646\MX001\obj\Debug\MX001.pdb
+D:\VNMerryTest\646\HDT646-4.24\MX001\bin\Debug\MX001.dll
+D:\VNMerryTest\646\HDT646-4.24\MX001\bin\Debug\MX001.pdb
+D:\VNMerryTest\646\HDT646-4.24\MX001\bin\Debug\Newtonsoft.Json.dll
+D:\VNMerryTest\646\HDT646-4.24\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+D:\VNMerryTest\646\HDT646-4.24\MX001\bin\Debug\MerryTestFramework.testitem.xml
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MX001.dll
+D:\VNMerryTest\646\HDT646-4.24\MX001\obj\Debug\MX001.pdb
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\bin\Debug\Newtonsoft.Json.dll
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\bin\Debug\MerryTestFramework.testitem.xml
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\bin\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\bin\Debug\HDT646.pdb
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646-4.24 - 副本\MX001\obj\Debug\HDT646.pdb
+D:\VNMerryTest\646\HDT646\MX001\bin\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646\MX001\bin\Debug\HDT646.pdb
+D:\VNMerryTest\646\HDT646\MX001\bin\Debug\Newtonsoft.Json.dll
+D:\VNMerryTest\646\HDT646\MX001\bin\Debug\MerryTestFramework.testitem.pdb
+D:\VNMerryTest\646\HDT646\MX001\bin\Debug\MerryTestFramework.testitem.xml
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646\MX001\obj\Debug\HDT646.pdb
+C:\Users\Administrator\Desktop\HDT646\MX001\bin\Debug\HDT646.dll
+C:\Users\Administrator\Desktop\HDT646\MX001\bin\Debug\HDT646.pdb
+C:\Users\Administrator\Desktop\HDT646\MX001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\HDT646.dll
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\HDT646.pdb
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MX001.FW.resources
+C:\Users\Administrator\Desktop\HDT646\MX001\obj\Debug\MX001.View_FW.resources
+C:\Users\14218278\Desktop\HDT646\MX001\bin\Debug\HDT646.dll
+C:\Users\14218278\Desktop\HDT646\MX001\bin\Debug\HDT646.pdb
+C:\Users\14218278\Desktop\HDT646\MX001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MX001.FW.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MX001.View_FW.resources
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\HDT646.dll
+C:\Users\14218278\Desktop\HDT646\MX001\obj\Debug\HDT646.pdb
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MX001.FW.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MX001.View_FW.resources
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\HDT646.dll
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\HDT646.pdb
+C:\Users\14218278\Desktop\HDT646  101\MX001\bin\Debug\HDT646.dll.config
+C:\Users\14218278\Desktop\HDT646  101\MX001\bin\Debug\HDT646.dll
+C:\Users\14218278\Desktop\HDT646  101\MX001\bin\Debug\HDT646.pdb
+C:\Users\14218278\Desktop\HDT646  101\MX001\obj\Debug\MerryTest.csproj.CopyComplete
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.csproj.AssemblyReference.cache
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MX001.Forms.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MX001.Forms.ProgressBars.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MX001.FW.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.testitem.ProgressBars.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\TestItem.UpdataFirmware.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MX001.View_FW.resources
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.csproj.GenerateResource.cache
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\HDT646.pdb
+D:\VNMerryTest\646\HDT646  101\MX001\bin\Debug\HDT646.dll.config
+D:\VNMerryTest\646\HDT646  101\MX001\bin\Debug\HDT646.dll
+D:\VNMerryTest\646\HDT646  101\MX001\bin\Debug\HDT646.pdb
+D:\VNMerryTest\646\HDT646  101\MX001\obj\Debug\MerryTest.csproj.CopyComplete

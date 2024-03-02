@@ -1,0 +1,2 @@
+2,HeadSetFW2.3,N/A,V2.3,V2.3,1,ReadHeadSetFW
+2,HeadSetFW2.3,N/A,V2.3,V2.3,1,ReadHeadSetFW
